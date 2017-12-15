@@ -1,5 +1,5 @@
 define(["./_base/kernel", "./_base/lang"], function(dojo, lang){
-// module:
+// module: 
 //		dojo/AdapterRegistry
 
 var AdapterRegistry = dojo.AdapterRegistry = function(/*Boolean?*/ returnWrappers){
